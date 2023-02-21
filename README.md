@@ -6,6 +6,5 @@ This repo is used to teach collaboration in a git repo.
 
 ## Names
 
-* Vicente - riverav03
-* Ben - bjcoleman
-
+* Ben - Colemanb@moravian.edu - bjcoleman 
+* Vicente - Riverav@moravian.edu - riverav03
